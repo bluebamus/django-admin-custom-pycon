@@ -1,1 +1,1 @@
-# django-admin-custom-pycon
+# django-admin-custom-pycon-2017
